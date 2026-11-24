@@ -1,0 +1,15 @@
+name: ebola-training
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - fastqc
+  - multiqc
+  - fastp
+  - bwa
+  - samtools
+  - ivar
+  - seqkit
+  - mafft
+  - iqtree
+  - spades
