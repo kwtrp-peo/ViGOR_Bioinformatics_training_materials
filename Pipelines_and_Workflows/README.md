@@ -3,7 +3,7 @@
 
 ## Module overview
 
-This module introduces participants to bioinformatics, its applications in genomics and infectious disease surveillance, and the computational skills required for genomic data analysis.
+This module introduces participants designing reproducible bioinformatics pipelines and workflows.
 
 ## Training resources
 
